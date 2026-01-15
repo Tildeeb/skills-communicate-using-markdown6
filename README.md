@@ -7,10 +7,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 # my project
-# Communicate using Markdown
-
-# _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-# Example Header
 
 </header>
 
